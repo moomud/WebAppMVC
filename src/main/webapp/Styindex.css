@@ -1,0 +1,75 @@
+#inputsearch{
+    width: 300px;
+    position: absolute;
+    left: 55px;
+}
+#btnsearch{
+    width: 100px;
+    position: absolute;
+    left: 460px;
+
+}
+#sesearch{
+    position: absolute;
+    left: 380px;
+}
+table{
+    border-collapse: collapse;
+    margin-top: 20px;
+    position: absolute;
+    left: 55px;
+}
+
+td, th{
+    padding: 10px;
+}
+
+td{
+    border : solid 1px #eee;
+}
+
+thead > tr{
+    background-color: #fafafa;
+}
+
+form input{
+    padding: 3px 10px;
+    border : solid 1px #ddd;
+}
+
+#cno{
+    width: 50px;
+}
+#cid{
+    width: 90px;
+}
+#cfname,#clname,#cphone{
+    width: 170px;
+}
+#cemail{
+    width: 250px;
+}
+#csalary{
+    width: 100px;
+}
+#btninsert{
+    width: 100px;
+    position: absolute;
+    left: 570px;
+    top: 80px;
+    background-color: #33FF33;
+}
+#btnupdate{
+    width: 100px;
+    position: absolute;
+    left: 680px;
+    top: 80px;
+    background-color: #FFFF33;
+}
+#btndelete{
+    width: 100px;
+    position: absolute;
+    left: 790px;
+    top: 80px;
+    background-color: red;
+}
